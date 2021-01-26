@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [{
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4333639, 0.5591569]
+        },
+        "properties": {
+            "OBJECTID": 1,
+            "No_": 1,
+            "Nama_Jalan": "Jl. Sekolah",
+            "Lebar": "60 cm",
+            "Kedalaman": "33 cm",
+            "Kondisi": "Sedang",
+            "Bahan": "Batu",
+            "Arah_Air": "Diam",
+            "Y": 0.5591569,
+            "X": 101.4333639
+        }
+    }, {
+        "type": "Feature",
+        "id": 2,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4349115, 0.5595497]
+        },
+        "properties": {
+            "OBJECTID": 2,
+            "No_": 2,
+            "Nama_Jalan": "Jl. Sekolah",
+            "Lebar": "60 cm",
+            "Kedalaman": "33 cm",
+            "Kondisi": "Sedang",
+            "Bahan": "Batu",
+            "Arah_Air": "Diam",
+            "Y": 0.5595497,
+            "X": 101.4349115
+        }
+    }, {
+        "type": "Feature",
+        "id": 3,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4384539, 0.5601438]
+        },
+        "properties": {
+            "OBJECTID": 3,
+            "No_": 3,
+            "Nama_Jalan": "Jl. Sekolah",
+            "Lebar": "60 cm",
+            "Kedalaman": "33 cm",
+            "Kondisi": "Sedang",
+            "Bahan": "Batu",
+            "Arah_Air": "Diam",
+            "Y": 0.5601438,
+            "X": 101.4384539
+        }
+    }, {
+        "type": "Feature",
+        "id": 4,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4420209, 0.5604302]
+        },
+        "properties": {
+            "OBJECTID": 4,
+            "No_": 4,
+            "Nama_Jalan": "Jl. Sekolah",
+            "Lebar": "60 cm",
+            "Kedalaman": "33 cm",
+            "Kondisi": "Sedang",
+            "Bahan": "Batu",
+            "Arah_Air": "Diam",
+            "X": 101.4420209
+        }
+    }, {
+        "type": "Feature",
+        "id": 5,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4456062, 0.5606109]
+        },
+        "properties": {
+            "OBJECTID": 5,
+            "No_": 5,
+            "Nama_Jalan": "Jl. Sekolah",
+            "Lebar": "60 cm",
+            "Kedalaman": "33 cm",
+            "Kondisi": "Sedang",
+            "Bahan": "Batu",
+            "Arah_Air": "Diam",
+            "Y": 0.5606109,
+            "X": 101.4456062
+        }
+    }, {
+        "type": "Feature",
+        "id": 6,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4482815, 0.5603634]
+        },
+        "properties": {
+            "OBJECTID": 6,
+            "No_": 6,
+            "Nama_Jalan": "Jl. Sekolah",
+            "Lebar": "60 cm",
+            "Kedalaman": "33 cm",
+            "Kondisi": "Sedang",
+            "Bahan": "Batu",
+            "Arah_Air": "Diam",
+            "Y": 0.5603634,
+            "X": 101.4482815
+        }
+    }]
+}

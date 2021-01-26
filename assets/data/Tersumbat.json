@@ -1,0 +1,66 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [{
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.43163, 0.56530]
+        },
+        "properties": {
+            "OBJECTID": 1,
+            "No_": 1,
+            "Nama_Jalan_Tersumbat": "Jl. Harapan",
+            "Y": 0.56530,
+            "X": 101.43163
+        }
+    }, {
+        "type": "Feature",
+        "id": 2,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.43449, 0.56675]
+        },
+        "properties": {
+            "OBJECTID": 2,
+            "No_": 2,
+            "Nama_Jalan_Tersumbat": "Jl. Harapan",
+            "Y": 0.56675,
+            "X": 101.43449
+        }
+    }, {
+        "type": "Feature",
+        "id": 3,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.43264, 0.56583]
+        },
+        "properties": {
+            "OBJECTID": 3,
+            "No_": 3,
+            "Nama_Jalan_Tersumbat": "Jl. Harapan",
+            "Y": 0.56583,
+            "X": 101.43264
+        }
+    }, {
+        "type": "Feature",
+        "id": 4,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.43223, 0.56282]
+        },
+        "properties": {
+            "OBJECTID": 4,
+            "No_": 4,
+            "Nama_Jalan_Tersumbat": "Jl. Ampera",
+            "Y": 0.56282,
+            "X": 101.43223
+        }
+    }]
+}

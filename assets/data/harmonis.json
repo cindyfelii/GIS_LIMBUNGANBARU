@@ -1,0 +1,67 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [{
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4328137, 0.5609144]
+        },
+        "properties": {
+            "OBJECTID": 1,
+            "No_": 1,
+            "Nama_Jalan": "Jl. Harmonis",
+            "Lebar": "100 cm",
+            "Kedalaman": "75 cm",
+            "Kondisi": "Sedang",
+            "Bahan": "Batu",
+            "Arah_Air": "Diam",
+            "Y": 0.5609144,
+            "X": 101.4328137
+        }
+    }, {
+        "type": "Feature",
+        "id": 2,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4357906, 0.5617165]
+        },
+        "properties": {
+            "OBJECTID": 2,
+            "No_": 2,
+            "Nama_Jalan": "Jl. Harmonis",
+            "Lebar": "77 cm",
+            "Kedalaman": "66 cm",
+            "Kondisi": "Sedang",
+            "Bahan": "Batu",
+            "Arah_Air": "Diam",
+            "Y": 0.5617165,
+            "X": 101.4357906
+        }
+    }, {
+        "type": "Feature",
+        "id": 3,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4351388, 0.5615824]
+        },
+        "properties": {
+            "OBJECTID": 3,
+            "No_": 3,
+            "Nama_Jalan": "Jl. Harmonis",
+            "Lebar": "77 cm",
+            "Kedalaman": "66 cm",
+            "Kondisi": "Sedang",
+            "Bahan": "Batu",
+            "Arah_Air": "Diam",
+            "Y": 0.5615824,
+            "X": 101.4351388
+        }
+    }]
+}

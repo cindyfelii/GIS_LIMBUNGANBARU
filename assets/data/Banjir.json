@@ -1,0 +1,40 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [{
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4313344, 0.565303]
+        },
+        "properties": {
+            "OBJECTID": 1,
+            "No_": 1,
+            "Nama_Jalan_Banjir": "Jl. Harapan",
+            "Kondisi_Kerusakan": "Sedang",
+            "Y": 0.565203,
+            "X": 101.4313344
+        }
+    }, {
+        "type": "Feature",
+        "id": 2,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.433535, 0.561156]
+        },
+        "properties": {
+            "OBJECTID": 2,
+            "No_": 2,
+            "Nama_Jalan_Banjir": "Jl. Harmonis",
+            "Kondisi_Kerusakan": "Sedang",
+            "Y": 0.561156,
+            "X": 101.433535
+        }
+    }]
+}

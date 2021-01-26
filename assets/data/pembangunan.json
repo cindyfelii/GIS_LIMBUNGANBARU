@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [{
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4371464, 0.5674003]
+        },
+        "properties": {
+            "OBJECTID": 1,
+            "No_": 1,
+            "Nama_Jalan": "Jl. Pembangunan",
+            "Lebar": "202 cm",
+            "Kedalaman": "90 cm",
+            "Kondisi": "Bagus",
+            "Bahan": "Batu",
+            "Arah_Air": "Diam",
+            "Y": 0.5674003,
+            "X": 101.4371464
+        }
+    }, {
+        "type": "Feature",
+        "id": 2,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4374208, 0.5656288]
+        },
+        "properties": {
+            "OBJECTID": 2,
+            "No_": 2,
+            "Nama_Jalan": "Jl. Pembangunan",
+            "Lebar": "202 cm",
+            "Kedalaman": "90 cm",
+            "Kondisi": "Bagus",
+            "Bahan": "Batu",
+            "Arah_Air": "Diam",
+            "Y": 0.5656288,
+            "X": 101.4374208
+        }
+    }, {
+        "type": "Feature",
+        "id": 3,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4376334, 0.5638378]
+        },
+        "properties": {
+            "OBJECTID": 3,
+            "No_": 3,
+            "Nama_Jalan": "Jl. Pembangunan",
+            "Lebar": "160 cm",
+            "Kedalaman": "70 cm",
+            "Kondisi": "Sedang",
+            "Bahan": "Batu",
+            "Arah_Air": "Diam",
+            "Y": 0.5638378,
+            "X": 101.4376334
+        }
+    }, {
+        "type": "Feature",
+        "id": 4,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4377232, 0.5620770]
+        },
+        "properties": {
+            "OBJECTID": 4,
+            "No_": 4,
+            "Nama_Jalan": "Jl. Pembangunan",
+            "Lebar": "205 cm",
+            "Kedalaman": "112 cm",
+            "Kondisi": "Sedang",
+            "Bahan": "Batu",
+            "Arah_Air": "Diam",
+            "Y": 0.5620770,
+            "X": 101.4377232
+        }
+    }, {
+        "type": "Feature",
+        "id": 5,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4375765, 0.5603956]
+        },
+        "properties": {
+            "OBJECTID": 5,
+            "No_": 5,
+            "Nama_Jalan": "Jl. Pembangunan",
+            "Lebar": "196 cm",
+            "Kedalaman": "112 cm",
+            "Kondisi": "Sedang",
+            "Bahan": "Batu",
+            "Arah_Air": "Diam",
+            "Y": 0.5603956,
+            "X": 101.4375765
+        }
+    }]
+}

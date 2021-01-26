@@ -1,0 +1,143 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [{
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4313344, 0.5652037]
+        },
+        "properties": {
+            "OBJECTID": 1,
+            "No_": 1,
+            "Nama_Jalan": "Jl. Harapan",
+            "Lebar": "130 cm",
+            "Kedalaman": "140 cm",
+            "Kondisi": "Sedang",
+            "Bahan": "Batu",
+            "Arah_Air": "Diam",
+            "Y": 0.5652037,
+            "X": 101.4313344
+        }
+    }, {
+        "type": "Feature",
+        "id": 2,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4329837, 0.5660194]
+        },
+        "properties": {
+            "OBJECTID": 2,
+            "No_": 2,
+            "Nama_Jalan": "Jl. Harapan",
+            "Lebar": "140 cm",
+            "Kedalaman": "80 cm",
+            "Kondisi": "Sedang",
+            "Bahan": "Batu",
+            "Arah_Air": "Diam",
+            "Y": 0.5660194,
+            "X": 101.4329837
+        }
+    }, {
+        "type": "Feature",
+        "id": 3,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4345484, 0.5668263]
+        },
+        "properties": {
+            "OBJECTID": 3,
+            "No_": 3,
+            "Nama_Jalan": "Jl. Harapan",
+            "Lebar": "132 cm",
+            "Kedalaman": "90 cm",
+            "Kondisi": "Sedang",
+            "Bahan": "Batu",
+            "Arah_Air": "Kering",
+            "Y": 0.5668263,
+            "X": 101.4345484
+        }
+    }, {
+        "type": "Feature",
+        "id": 4,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4365362, 0.5673383]
+        },
+        "properties": {
+            "OBJECTID": 4,
+            "No_": 4,
+            "Nama_Jalan": "Jl. Harapan",
+            "Lebar": "60 cm",
+            "Kedalaman": "69 cm",
+            "Kondisi": "Sedang",
+            "Bahan": "Batu",
+            "Arah_Air": "Diam",
+            "Y": 0.5673383,
+            "X": 101.4365362
+        }
+    }, {
+        "type": "Feature",
+        "id": 5,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4384081, 0.5676638]
+        },
+        "properties": {
+            "OBJECTID": 5,
+            "No_": 5,
+            "Nama_Jalan": "Jl. Harapan",
+            "Lebar": "60 cm",
+            "Kedalaman": "84 cm",
+            "Kondisi": "Sedang",
+            "Bahan": "Batu",
+            "Arah_Air": "Diam",
+            "Y": 0.5676638,
+            "X": 101.4384081
+        }
+    }, {
+        "type": "Feature",
+        "id": 6,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4404121, 0.5674885]
+        },
+        "properties": {
+            "OBJECTID": 6,
+            "No_": 6,
+            "Nama_Jalan": "Jl. Harapan",
+            "Lebar": "62 cm",
+            "Kedalaman": "86 cm",
+            "Kondisi": "Sedang",
+            "Bahan": "Batu",
+            "Arah_Air": "Diam",
+            "Y": 0.5674885,
+            "X": 101.4404121
+        }
+    }, {
+        "type": "Feature",
+        "id": 7,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4448015, 0.5676802]
+        },
+        "properties": {
+            "OBJECTID": 7,
+            "No_": 7,
+            "Nama_Jalan": "Jl. Harapan",
+            "Lebar": "61 cm",
+            "Kedalaman": "87 cm",
+            "Kondisi": "Sedang",
+            "Bahan": "Batu",
+            "Arah_Air": "Diam",
+            "Y": 0.5676802,
+            "X": 101.4448015
+        }
+    }]
+}

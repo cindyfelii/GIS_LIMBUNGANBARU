@@ -1,0 +1,86 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [{
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4321344, 0.5629273]
+        },
+        "properties": {
+            "OBJECTID": 1,
+            "No_": 1,
+            "Nama_Jalan": "Jl. Ampera",
+            "Lebar": "110 cm",
+            "Kedalaman": "55 cm",
+            "Kondisi": "Bagus",
+            "Bahan": "Batu",
+            "Arah_Air": "Diam",
+            "Y": 0.5629273,
+            "X": 101.4321344
+        }
+    }, {
+        "type": "Feature",
+        "id": 2,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4358722, 0.5630305]
+        },
+        "properties": {
+            "OBJECTID": 2,
+            "No_": 2,
+            "Nama_Jalan": "Jl. Ampera",
+            "Lebar": "74 cm",
+            "Kedalaman": "60 cm",
+            "Kondisi": "Bagus",
+            "Bahan": "Batu",
+            "Arah_Air": "Diam",
+            "Y": 0.5630305,
+            "X": 101.4358722
+        }
+    }, {
+        "type": "Feature",
+        "id": 3,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4340735, 0.5629718]
+        },
+        "properties": {
+            "OBJECTID": 3,
+            "No_": 3,
+            "Nama_Jalan": "Jl. Ampera",
+            "Lebar": "70 cm",
+            "Kedalaman": "59 cm",
+            "Kondisi": "Bagus",
+            "Bahan": "Batu",
+            "Arah_Air": "Diam",
+            "Y": 0.5629718,
+            "X": 101.4340735
+        }
+    }, {
+        "type": "Feature",
+        "id": 4,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.4322795, 0.5629083]
+        },
+        "properties": {
+            "OBJECTID": 4,
+            "No_": 4,
+            "Nama_Jalan": "Jl. Ampera",
+            "Lebar": "75 cm",
+            "Kedalaman": "67 cm",
+            "Kondisi": "Bagus",
+            "Bahan": "Batu",
+            "Arah_Air": "Diam",
+            "Y": 0.5629083,
+            "X": 101.4322795
+        }
+    }]
+}
